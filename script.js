@@ -42,7 +42,7 @@ MS.App = (function() {
   }
   function disableNavLinks() {
     navButton.attr('aria-label', 'Ouvrir le Menu');
-    //navMenu.attr('aria-hidden', 'true');
+    navMenu.attr('aria-hidden', 'true');
     navLinks.attr('tabIndex', '-1');
   }
 
