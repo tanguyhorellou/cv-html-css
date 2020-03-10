@@ -750,7 +750,7 @@ abbr{
     max-width: 44px;
     max-height: 71px;
     margin: .1rem 0 0.1rem 0;
-      padding: 0 .3rem 0 0.5rem;
+    
   }
 #menu-button span.menu-icon, #menu-close span,#menu-button span.menu-icon svg  {
         max-height: 85% !important;
